@@ -300,6 +300,8 @@ source_set("browser") {
 
     "//chrome/browser/safe_browsing/chunk_range.cc",
     "//chrome/browser/safe_browsing/chunk_range.h",
+    "//chrome/browser/safe_browsing/chrome_password_protection_service.cc",
+    "//chrome/browser/safe_browsing/chrome_password_protection_service.h",
     "//chrome/browser/safe_browsing/client_side_model_loader.cc",
     "//chrome/browser/safe_browsing/client_side_model_loader.h",
     "//chrome/browser/safe_browsing/download_protection/check_client_download_request.cc",
